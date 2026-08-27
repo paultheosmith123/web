@@ -1,1 +1,1 @@
-whoami
+start www.google.com
